@@ -12,6 +12,12 @@
 .top a:hover{
   color: #b51070;
 }
+.top a:link{
+  color: #b51070;
+}
+.top a:active{
+  color: #b51070;
+}
 h2{
   font-family: 'Noto Sans JP', sans-serif;
   font-family: 'STIX Two Math', serif;
@@ -31,10 +37,22 @@ h3{
 .two a:hover{
   color: #5d00ff;
 }
+.two a:link{
+  color: #5d00ff;
+}
+.two a:active{
+  color: #5d00ff;
+}
 .next a:visited{
   color: #0385ff;
 }
 .next a:hover{
+  color: #0385ff;
+}
+.next a:link{
+  color: #0385ff;
+}
+.next a:active{
   color: #0385ff;
 }
 footer{
@@ -45,4 +63,7 @@ footer{
 footer p{
   color: #fff;
   font-size: 0.875rem;
+}
+@media (max-width:600px) {
+
 }
