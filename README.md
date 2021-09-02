@@ -1,2 +1,2 @@
 # myhomepage
-あはは
+ysoho
